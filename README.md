@@ -249,3 +249,8 @@ This repo is compatible with Python 38, Python 39
 | yarl | 1.6.3 |
 | zope.event | 4.5.0 |
 | zope.interface | 5.4.0 |
+| cryptography | 3.4.7 |
+| jira | 2.0.0 |
+| pbr | 5.6.0 |
+| PyJWT | 2.0.1 |
+| requests_toolbelt | 0.9.1 |
