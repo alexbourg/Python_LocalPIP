@@ -1,8 +1,15 @@
 # Python offline packages installer
 This repo is compatible with Python 38, Python 39
 
-| Package |Version |
-| :---:          |     :---:      |
+Requirements:
+1. Install:
+Python 3.8.x in C:\Program64\Python\Python38 
+Python 3.9.x in C:\Program64\Python\Python39
+
+2. Download localpip.exe and copy it to C:\Program64\Python\Python39\Scripts folder
+
+3. Run localpip in CMD
+
 | absl-py | 0.12.0 |
 | aiodns | 2.0.0 |
 | aiohttp | 3.7.4.post0 |
@@ -36,6 +43,7 @@ This repo is compatible with Python 38, Python 39
 | cffi | 1.14.5 |
 | chardet | 3.0.4 |
 | click | 7.1.2 |
+| cmdstanpy | 0.9.5 |
 | colorama | 0.4.4 |
 | comtypes | 1.1.9 |
 | convertdate | 2.3.2 |
@@ -54,9 +62,11 @@ This repo is compatible with Python 38, Python 39
 | en-core-web-md | 3.0.0 |
 | en-core-web-sm | 3.0.0 |
 | entrypoints | 0.3 |
+| ephem | 3.7.7.1 |
 | et-xmlfile | 1.0.1 |
 | extract-msg | 0.23.1 |
 | fake-useragent | 0.1.11 |
+| fbprophet | 0.7.1 |
 | feedparser | 6.0.2 |
 | flashtext | 2.7 |
 | flatbuffers | 1.12 |
@@ -74,6 +84,8 @@ This repo is compatible with Python 38, Python 39
 | greenlet | 1.0.0 |
 | grpcio | 1.34.1 |
 | h5py | 3.1.0 |
+| hijri-converter | 2.1.1 |
+| holidays | 0.11.1 |
 | idna | 2.10 |
 | imageio | 2.9.0 |
 | imageio-ffmpeg | 0.4.3 |
@@ -99,8 +111,10 @@ This repo is compatible with Python 38, Python 39
 | keras-nightly | 2.5.0.dev2021032900 |
 | Keras-Preprocessing | 1.1.2 |
 | kiwisolver | 1.3.1 |
+| korean-lunar-calendar | 0.2.1 |
 | lazy-object-proxy | 1.6.0 |
 | lightgbm | 3.2.1 |
+| LunarCalendar | 0.0.9 |
 | lxml | 4.6.3 |
 | Markdown | 3.3.4 |
 | MarkupSafe | 1.1.1 |
@@ -137,6 +151,7 @@ This repo is compatible with Python 38, Python 39
 | pickleshare | 0.7.5 |
 | Pillow | 8.2.0 |
 | pip | 21.0.1 |
+| plotly | 4.14.3 |
 | pluggy | 0.13.1 |
 | preshed | 3.0.5 |
 | proglog | 0.1.9 |
@@ -172,6 +187,7 @@ This repo is compatible with Python 38, Python 39
 | pyquery | 1.4.3 |
 | pyrsistent | 0.17.3 |
 | PySocks | 1.7.1 |
+| pystan | 2.19.1.1 |
 | pytest | 6.2.3 |
 | python-dateutil | 2.8.1 |
 | python-pptx | 0.6.18 |
@@ -191,13 +207,15 @@ This repo is compatible with Python 38, Python 39
 | requests | 2.25.1 |
 | requests-html | 0.10.0 |
 | requests-oauthlib | 1.3.0 |
+| retrying | 1.3.3 |
 | rsa | 4.7.2 |
 | s3transfer | 0.3.7 |
 | schedule | 1.1.0 |
 | scikit-learn | 0.24.1 |
-| scipy | 1.6.2 |
+| scipy | 1.6.3 |
 | Send2Trash | 1.5.0 |
 | setuptools | 49.2.1 |
+| setuptools-git | 1.2 |
 | sgmllib3k | 1.0.0 |
 | six | 1.15.0 |
 | skutil | 0.0.16 |
@@ -211,6 +229,7 @@ This repo is compatible with Python 38, Python 39
 | srsly | 2.4.1 |
 | statsmodels | 0.12.2 |
 | tabulate | 0.8.9 |
+| tenable-io | 1.13.1 |
 | tensorboard | 2.4.1 |
 | tensorboard-plugin-wit | 1.8.0 |
 | tensorflow | 2.5.0rc1 |
@@ -249,8 +268,3 @@ This repo is compatible with Python 38, Python 39
 | yarl | 1.6.3 |
 | zope.event | 4.5.0 |
 | zope.interface | 5.4.0 |
-| cryptography | 3.4.7 |
-| jira | 2.0.0 |
-| pbr | 5.6.0 |
-| PyJWT | 2.0.1 |
-| requests_toolbelt | 0.9.1 |
