@@ -21,15 +21,17 @@ Cython
 Django
 Eli5
 FlashText
+flask
+Flask_Cors
 fbprophet
 keras
 lightgbm
 matplotlib
 numpydoc
 mpmath
+nltk
 MoviePy
 mypy
-ntlk
 html5lib
 opencv-python
 openpyxl
@@ -55,7 +57,6 @@ imagesize
 requests
 scikit-learn
 scikit_image
-snowballstemme
 jira
 scipy
 spacy
