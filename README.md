@@ -6,7 +6,7 @@ Requirements:
 Python 3.8.x in C:\Program64\Python\Python38 
 Python 3.9.x in C:\Program64\Python\Python39
 
-2. Download localpip.exe and copy it to C:\Program64\Python\Python39\Scripts folder
+2. Download localpip.zip and extract it to C:\Program64\Python\Python39\Scripts
 
 3. Run localpip command in CMD
 
