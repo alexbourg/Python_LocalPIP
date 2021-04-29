@@ -8,7 +8,7 @@ Python 3.9.x in C:\Program64\Python\Python39
 
 2. Download localpip.exe and copy it to C:\Program64\Python\Python39\Scripts folder
 
-3. Run localpip in CMD
+3. Run localpip command in CMD
 
 | Package |Version |
 | :---:          |     :---:      |
