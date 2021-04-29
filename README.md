@@ -10,6 +10,8 @@ Python 3.9.x in C:\Program64\Python\Python39
 
 3. Run localpip in CMD
 
+| Package |Version |
+| :---:          |     :---:      |
 | absl-py | 0.12.0 |
 | aiodns | 2.0.0 |
 | aiohttp | 3.7.4.post0 |
