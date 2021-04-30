@@ -326,3 +326,4 @@ Run localpip command in CMD
 | zict | 2.0.0 |
 | zope.event | 4.5.0 |
 | zope.interface | 5.4.0 |
+| qPython | 2.0.0 |

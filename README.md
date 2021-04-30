@@ -332,3 +332,4 @@ Python 3.9.x in C:\Program64\Python\Python39
 | zict | 2.0.0 |
 | zope.event | 4.5.0 |
 | zope.interface | 5.4.0 |
+| qPython | 2.0.0 |

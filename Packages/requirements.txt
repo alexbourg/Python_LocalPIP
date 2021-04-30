@@ -82,4 +82,5 @@ skutil
 yahoo_fin
 yfinance
 zict
+qPython
 pdfminer.six==20181108
