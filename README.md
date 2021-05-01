@@ -319,7 +319,7 @@ Python 3.9.x in C:\Program64\Python\Python39
 | tensorboard | 2.5.0 |
 | tensorboard-data-server | 0.6.0 |
 | tensorboard-plugin-wit | 1.8.0 |
-| tensorflow | 2.5.0rc1 |
+| tensorflow | 2.5.0rc2 |
 | tensorflow-estimator | 2.5.0rc0 |
 | termcolor | 1.1.0 |
 | terminado | 0.9.4 |
