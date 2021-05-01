@@ -55,11 +55,13 @@ pywin32
 pyTenable
 imagesize
 requests
+spyder
 scikit-learn
 scikit_image
 jira
 scipy
 spacy
+seaborn
 en_core_web_md
 en_core_web_sm
 SQLAlchemy
@@ -82,5 +84,7 @@ skutil
 yahoo_fin
 yfinance
 zict
+win_unicode_console
 qPython
+QuantLib
 pdfminer.six==20181108
